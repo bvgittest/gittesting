@@ -24,6 +24,7 @@ namespace gittesting
             MessageBox.Show("KK changed button1");
             //added by Edward
             MessageBox.Show("Added by Edward");
+            //added by kks
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -32,6 +33,7 @@ namespace gittesting
             MessageBox.Show("Added by Edward in button 2 as well");
             MessageBox.Show("2ndButton testing sync");
             MessageBox.Show("KK changed");
+            //added by kks
         }
     }
 }
