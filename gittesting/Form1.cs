@@ -24,7 +24,7 @@ namespace gittesting
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("2ndButton");
+            MessageBox.Show("2ndButton testing sync");
         }
     }
 }
