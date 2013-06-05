@@ -20,11 +20,13 @@ namespace gittesting
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Message from button 1 - changed");
+            MessageBox.Show("KK changed button1");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             MessageBox.Show("2ndButton testing sync");
+            MessageBox.Show("KK changed");
         }
     }
 }
