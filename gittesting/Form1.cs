@@ -28,7 +28,6 @@ namespace gittesting
         {
             MessageBox.Show("2ndButton testing sync");
             MessageBox.Show("KK changed");
-            //added by kks
         }
     }
 }
