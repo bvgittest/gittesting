@@ -21,6 +21,7 @@ namespace gittesting
         {
             MessageBox.Show("Message from button 1 - changed");
             MessageBox.Show("KK changed button1");
+            MessageBox.Show("KK changed button1");
             //added by Edward
             MessageBox.Show("Added by Edward");
         }
