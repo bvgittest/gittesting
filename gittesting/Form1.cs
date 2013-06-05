@@ -19,7 +19,7 @@ namespace gittesting
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Message from button 1");
+            MessageBox.Show("Message from button 1 - changed");
         }
 
         private void button2_Click(object sender, EventArgs e)
