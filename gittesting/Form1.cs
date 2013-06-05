@@ -20,6 +20,7 @@ namespace gittesting
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Message from button 1 - changed");
+            MessageBox.Show("KK changed button1");
             //added by Edward
             MessageBox.Show("Added by Edward");
         }
@@ -29,6 +30,7 @@ namespace gittesting
             //added by Edward here too
             MessageBox.Show("Added by Edward in button 2 as well");
             MessageBox.Show("2ndButton testing sync");
+            MessageBox.Show("KK changed");
         }
     }
 }
